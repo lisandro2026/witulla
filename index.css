@@ -1,17 +1,30 @@
 *{
-    font-family: 'Gothic A1', sans-serif;
-    /* font-family: 'Kanit', sans-serif; */
-    background-color: rgb(214, 215, 215);
+    font-family: 'Sono', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-image: url(WhatsApp\ Image\ 2023-03-20\ at\ 10.56.38.jpeg);
+    background-size: 100%;
 }
 
 h1{
     font-size:400%;
-    margin-left: 100px;
+    margin-left: 90px;
+    /* margin-right: 400px; */
+    border-radius :20px ;
+    background-color: #2190bc;
+    
 }
 
 h3{
     font-size: 250%;
-    margin-left: 100px;
+    margin-left: 90px;
+    /* margin-right: 400px; */
+    border-radius :20px ;
+    background-color: #2190bc;
+    margin-top: 35%;
 }
 
 img{
