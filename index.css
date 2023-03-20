@@ -1,0 +1,19 @@
+*{
+    font-family: 'Gothic A1', sans-serif;
+    /* font-family: 'Kanit', sans-serif; */
+    background-color: rgb(214, 215, 215);
+}
+
+h1{
+    font-size:400%;
+}
+
+h3{
+    font-size: 250%;
+}
+
+img{
+    float: right;
+    width: 380px;;
+
+}
